@@ -70,6 +70,13 @@
 
 ---
 
-<p align="center">
-  🚀 <i>"Exploring the Frontiers of Quantum Computing & Pioneering Tech for a Better Future!"</i> 🌍  
-</p>
+## 🔹 **Research Publications**
+- **IoT-Based Network Attached Storage**: Published research paper in IJRASET detailing the development of secure and efficient cloud storage systems using Raspberry Pi&#8203;:contentReference[oaicite:4]{index=4}.
+- **Predicting Credit Card Defaults with Machine Learning**: Published research on using machine learning models to predict credit card defaults, offering insights on model optimization for financial applications&#8203;:contentReference[oaicite:5]{index=5}.
+- **Stock Market Analysis using Heuristic Approaches**: Applied heuristic methods to analyze stock market trends, publishing findings in IJRASET&#8203;:contentReference[oaicite:6]{index=6}.
+- **Amazon Fine Food Review Analysis**: Conducted sentiment analysis on Amazon Fine Food reviews using natural language processing techniques, published in IJRASET&#8203;:contentReference[oaicite:7]{index=7}.
+
+---
+
+<p align="center">onstantly seeking to push the boundaries of technology through Quantum Computing, AI, and IoT for a better future!"</i> 🌍  
+</p
