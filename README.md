@@ -78,5 +78,5 @@
 
 ---
 
-<p align="center">onstantly seeking to push the boundaries of technology through Quantum Computing, AI, and IoT for a better future!"</i> 🌍  
+<p align="center">Constantly seeking to push the boundaries of technology through Quantum Computing, AI, and IoT for a better future!"</i> 🌍  
 </p
