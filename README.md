@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=sherurox&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" height=25px, width=160px/> 
 </p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
+## <picture><img src="https://github.com/sherurox/sherurox/blob/main/about_me.gif" width=50px></picture> About Me
 
 <picture>
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
@@ -34,7 +34,7 @@
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=50px></picture> Connect with Me
+## <picture><img src=" https://github.com/sherurox/sherurox/blob/main/Connect-with-me.gif " width=50px></picture> Connect with Me
 <p align="center">
   <a href="mailto:skhandale@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shreyaskhandale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
