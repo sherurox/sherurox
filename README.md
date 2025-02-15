@@ -1,7 +1,6 @@
 <a href="https://github.com/sherurox">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/dark_mode.svg">
-    <img alt="Shreyas Khandale's GitHub Profile README" src="https://raw.githubusercontent.com/Andrew6rant/Andrew6rant/main/light_mode.svg">
+  ![POV](https://github.com/user-attachments/assets/270759fb-1f45-49ff-ad1b-2331c35dd998)
   </picture>
 </a>
 
