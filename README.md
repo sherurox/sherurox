@@ -1,8 +1,7 @@
 <a href="https://github.com/sherurox">
-  <picture>
-  ![POV](https://github.com/user-attachments/assets/270759fb-1f45-49ff-ad1b-2331c35dd998)
-  </picture>
+  <img src="https://github.com/sherurox/sherurox/blob/main/POV.gif" alt="POV GIF" width="500"/>
 </a>
+
 
 <h1 align="center">Hi, I'm Shreyas Khandale! 👋</h1>
 
