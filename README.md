@@ -34,7 +34,7 @@
 
 ---
 
-## <picture><img src=" https://github.com/sherurox/sherurox/blob/main/Connect-with-me.gif " width=50px></picture> Connect with Me
+## <picture><img src="https://github.com/sherurox/sherurox/blob/main/Connect-with-me.gif" width=50px></picture> Connect with Me
 <p align="center">
   <a href="mailto:skhandale@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shreyaskhandale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
