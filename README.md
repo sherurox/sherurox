@@ -4,72 +4,95 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Shreyas Khandale! 👋</h1>
-
+<h1 align="center">Hi, I'm Shreyas Pradeepkumar Khandale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <b>Pursuing M.S. in Computer Science | Quantum Computing & Quantum Networking Researcher</b><br>
-  <b>IoT & Machine Learning Enthusiast | Full Stack Developer</b><br>
-  <b>Tech Leader & Social Impact Advocate</b>
-</p>
-
----
-
-## 🔗 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/shreyaskhandale/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/sherurox">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduate+Student+in+Computer+Science;AI+and+Quantum+Computing+Researcher;Full+Stack+Developer;Cloud+Computing+Enthusiast;Always+Learning+New+Technologies">
   </a>
 </p>
 
+<br>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=sherurox&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" height=25px, width=160px/> 
+</p>
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture> About Me
+
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
+</picture>
+
+- 🎓 **Graduate Student** at **Binghamton University**, pursuing **Master's in Computer Science** (Expected: May 2026)
+- 🏫 **Bachelor of Engineering** in **Computer Engineering** from **AISSMS College of Engineering, Pune**, GPA: **3.52/4.00**
+- 💻 Experienced in **Python**, **C++**, **JavaScript**, **SQL**, **Java**, and **HTML/CSS**
+- 🤖 Specializing in **AI/ML**, **Quantum Computing**, **IoT** and **Edge Computing**
+- 🌐 Proficient with **AWS**, **Google Cloud Platform**, **Docker**, and **Kubernetes**
+- 📚 Published research in **Quantum Networking**, **IoT-based Cloud Storage**, and **Machine Learning**
+- 🌱 Passionate about **Cloud-based Solutions**, **AI Model Deployment**, and **Big Data Analytics**
+- 🏆 Certified in **Cloud Computing**, **IoT**, and **Python for Data Science**
+
 ---
 
-## 📊 GitHub Stats  
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width=50px></picture> Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherurox&show_icons=true&theme=dark&hide_border=true" alt="Shreyas' GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sherurox&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherurox&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
-  <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=sherurox&limit=5&theme=dark&hide_border=true" alt="GitHub Contributions">
+  <a href="mailto:skhandale@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shreyaskhandale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/sherurox"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🏆 Badges & Achievements  
+## 🛠 Skills
+
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=50px></picture> Programming Languages
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sherurox&color=blue&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/sherurox?style=for-the-badge&logo=github" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/sherurox?style=for-the-badge&logo=github" alt="GitHub Stars">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" />
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/HTML%2FCSS-%23239120.svg?style=plastic&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-## 🛠 Tech Stack  
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/ML_AI.gif?raw=true" width=50px></picture> Machine Learning & AI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,react,nodejs,express,mongodb,postgres,docker,kubernetes,git,linux,vscode,arduino,raspberrypi,aws,gcp,azure,html,css,flask" alt="Tech Stack">
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23FF0000.svg?style=plastic&logo=OpenCV&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects & Contributions  
-
-### 🔹 **Quantum Computing & Quantum Networking Research**
-- **Digital Twin Technology & Quantum Integration (Binghamton University, 2025-Present):** Conducted research integrating Quantum Networking, Quantum Computing, and Edge Computing with Digital Twin technology to enhance real-time simulations and predictive analytics. Developed hybrid AI models utilizing Quantum Machine Learning (QML) for decentralized cyber-physical systems&#8203;:contentReference[oaicite:0]{index=0}.
-
-### 🔹 **IoT & Edge Computing Innovations**
-- **IoT-Based Network Attached Storage (2023-2024):** Led a team of five to develop a private cloud storage system using Raspberry Pi and repurposed storage devices with OpenMediaVault. Enhanced system security by 95% through custom storage setup and published the research in IJRASET&#8203;:contentReference[oaicite:1]{index=1}.
-- **IoT-Cloud Convergence (AISSMS COE, 2023-2024):** Delivered practical sessions on integrating Docker and Kubernetes for IoT-based systems, enhancing real-time monitoring and cloud resource management&#8203;:contentReference[oaicite:2]{index=2}.
-
-### 🔹 **Full Stack Applications & Open Source Contributions**
-- **Full Stack Development Intern at Acmegrade (2022-2023):** Developed an online bookstore platform using HTML, CSS, JavaScript, and PHP, integrating MySQL for backend management. Created a seamless UI that simplified book purchasing processes for vendors and customers&#8203;:contentReference[oaicite:3]{index=3}.
-- **Open Source Contributor:** Actively contributing to projects on GitHub, including building APIs, improving front-end user experiences, and optimizing database management systems. Regularly engage in hackathons and collaborative coding challenges.
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width=50px></picture> Developer Tools
+<p align="center">
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D4.svg?style=plastic&logo=visual-studio-code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-50C878.svg?style=plastic&logo=pycharm&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=plastic&logo=powerbi&logoColor=black" />
+</p>
 
 ---
 
+### <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width=50px></picture> Cloud & Deployment
 <p align="center">
-  🚀 <i>"Exploring the Frontiers of Quantum Computing & Pioneering Tech for a Better Future!"</i> 🌍  
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=plastic&logo=microsoft-azure&logoColor=white" />
 </p>
+
+---
+
+## 📈 GitHub Stats
+<details>
+  <summary>🔥 Streak Stats</summary>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com
