@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/sherurox">
-    <img src="https://raw.githubusercontent.com/sherurox/sherurox/main/gitimg1.gif" alt="POV GIF" width="100%"/>
+    <img src="https://raw.githubusercontent.com/sherurox/sherurox/main/pov.gif" alt="POV GIF" width="100%"/>
   </a>
 </p>
 
