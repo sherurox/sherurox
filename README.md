@@ -24,7 +24,7 @@
 </picture>
 
 - 🎓 **Graduate Student** at **Binghamton University**, pursuing **Master's in Computer Science** (Expected: May 2026)
-- 🏫 **Bachelor of Engineering** in **Computer Engineering** from **AISSMS College of Engineering, Pune**, GPA: **3.52/4.00**
+- 🏫 **Bachelor of Engineering** in **Computer Engineering** from **AISSMS College of Engineering, Pune**
 - 💻 Experienced in **Python**, **C++**, **JavaScript**, **SQL**, **Java**, and **HTML/CSS**
 - 🤖 Specializing in **AI/ML**, **Quantum Computing**, **IoT** and **Edge Computing**
 - 🌐 Proficient with **AWS**, **Google Cloud Platform**, **Docker**, and **Kubernetes**
