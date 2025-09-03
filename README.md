@@ -7,20 +7,20 @@
 <h1 align="center">Hi, I'm Shreyas Pradeepkumar Khandale <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduate+Student+in+Computer+Science;AI+and+Quantum+Computing+Researcher;Full+Stack+Developer;Cloud+Computing+Enthusiast;Always+Learning+New+Technologies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2336BCF7&size=25&center=true&vCenter=true&width=600&height=100&lines=Graduate+Student+in+Computer+Science;AI+and+Quantum+Computing+Researcher;Full+Stack+Developer;Cloud+Computing+Enthusiast;Always+Learning+New+Technologies" />
   </a>
 </p>
 
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sherurox&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" height=25px width=160px/> 
+  <img src="https://komarev.com/ghpvc/?username=sherurox&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" height="25" width="160"/> 
 </p>
 
-## <picture><img src="https://github.com/sherurox/sherurox/blob/main/about_me.gif" width=50px></picture> About Me
+## <picture><img src="https://github.com/sherurox/sherurox/blob/main/about_me.gif" width="50"></picture> About Me
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
 </picture>
 
 - 🎓 **Graduate Student** at **Binghamton University**, pursuing **Master's in Computer Science** (Expected: May 2026)
@@ -34,12 +34,12 @@
 
 ---
 
-## <picture><img src="https://github.com/sherurox/sherurox/blob/main/Connect-with-me.gif" width=50px></picture> Connect with Me
+## <picture><img src="https://github.com/sherurox/sherurox/blob/main/Connect-with-me.gif" width="50"></picture> Connect with Me
 <p align="center">
   <a href="mailto:skhandale@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shreyaskhandale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sherurox"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="https://github.com/sherurox/sherurox/blob/main/ShreyasPKhandale_grad_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-%23008080.svg?style=plastic&logo=google-drive&logoColor=white"></a>
+  <a href="https://github.com/sherurox/sherurox/blob/main/ShreyasKhandale_grad_resume_2pg.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-%23008080.svg?style=plastic&logo=google-drive&logoColor=white"></a>
 </p>
 
 ---
@@ -81,5 +81,4 @@
 
 ---
 
-<p align="center">Constantly seeking to push the boundaries of technology through Quantum Computing, AI, and IoT for a better future!"</i> 🌍  
-</p>
+<p align="center"><i>Constantly seeking to push the boundaries of technology through Quantum Computing, AI, and IoT for a better future!</i> 🌍</p>
