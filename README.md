@@ -14,7 +14,7 @@
 <br>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sherurox&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" height=25px, width=160px/> 
+  <img src="https://komarev.com/ghpvc/?username=sherurox&label=Profile%20views&color=0e75b6&style=plastic" alt="Profile Views" height=25px width=160px/> 
 </p>
 
 ## <picture><img src="https://github.com/sherurox/sherurox/blob/main/about_me.gif" width=50px></picture> About Me
@@ -39,7 +39,7 @@
   <a href="mailto:skhandale@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shreyaskhandale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sherurox"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="https://github.com/sherurox/sherurox/blob/main/FULL_ShreyasPKhandale_gradresume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-%23008080.svg?style=plastic&logo=google-drive&logoColor=white"></a>
+  <a href="https://github.com/sherurox/sherurox/blob/main/ShreyasPKhandale_grad_resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-%23008080.svg?style=plastic&logo=google-drive&logoColor=white"></a>
 </p>
 
 ---
@@ -74,12 +74,12 @@
 ---
 
 ## 🔹 **Research Publications**
-- **IoT-Based Network Attached Storage**: Published research paper in IJRASET detailing the development of secure and efficient cloud storage systems using Raspberry Pi&#8203;:contentReference[oaicite:4]{index=4}.
-- **Predicting Credit Card Defaults with Machine Learning**: Published research on using machine learning models to predict credit card defaults, offering insights on model optimization for financial applications&#8203;:contentReference[oaicite:5]{index=5}.
-- **Stock Market Analysis using Heuristic Approaches**: Applied heuristic methods to analyze stock market trends, publishing findings in IJRASET&#8203;:contentReference[oaicite:6]{index=6}.
-- **Amazon Fine Food Review Analysis**: Conducted sentiment analysis on Amazon Fine Food reviews using natural language processing techniques, published in IJRASET&#8203;:contentReference[oaicite:7]{index=7}.
+- **IoT-Based Network Attached Storage**: Published research paper in IJRASET detailing the development of secure and efficient cloud storage systems using Raspberry Pi.
+- **Predicting Credit Card Defaults with Machine Learning**: Published research on using machine learning models to predict credit card defaults, offering insights on model optimization for financial applications.
+- **Stock Market Analysis using Heuristic Approaches**: Applied heuristic methods to analyze stock market trends, publishing findings in IJRASET.
+- **Amazon Fine Food Review Analysis**: Conducted sentiment analysis on Amazon Fine Food reviews using natural language processing techniques, published in IJRASET.
 
 ---
 
 <p align="center">Constantly seeking to push the boundaries of technology through Quantum Computing, AI, and IoT for a better future!"</i> 🌍  
-</p
+</p>
