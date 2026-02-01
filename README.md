@@ -39,7 +39,6 @@
   <a href="mailto:skhandale@binghamton.edu"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shreyaskhandale/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/sherurox"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
-  <a href="https://github.com/sherurox/sherurox/blob/main/ShreyasKhandale_grad_resume_2pg.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-%23008080.svg?style=plastic&logo=google-drive&logoColor=white"></a>
 </p>
 
 ---
