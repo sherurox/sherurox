@@ -44,19 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherurox&show_icons=true&theme=dark&hide_border=true" alt="Shreyas' GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sherurox&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherurox&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages">
-  <br>
-  <img src="https://github-contributor-stats.vercel.app/api?username=sherurox&limit=5&theme=dark&hide_border=true" alt="GitHub Contributions">
-</p>
-
----
-
 ## 🏆 Badges & Achievements  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sherurox&color=blue&style=for-the-badge" alt="Profile Views">
