@@ -77,7 +77,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,java,cpp,bash,sql" alt="Languages" title="Languages"/><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,fastapi,flask,docker" alt="ML & Backend" title="ML & Backend"/><br/>
-  <img src="https://skillicons.dev/icons?i=angular,angular,js,html,css,firebase" alt="Frontend" title="Frontend"/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,js,html,css,firebase" alt="Frontend" title="Frontend"/><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,linux,git,gcp" alt="Infrastructure" title="Infrastructure"/>
 </p>
 
@@ -104,7 +104,7 @@
 |---|-------|-------|-----|
 | 1 | IoT-Based Network Attached Storage — Raspberry Pi 4 NAS architecture with benchmarked USB 3.0 throughput and SMB/CIFS multi-device access | IJRASET Vol.12, Nov 2024 | [10.22214/ijraset.2024.65616](https://doi.org/10.22214/ijraset.2024.65616) |
 | 2 | Predicting Credit Card Defaults with Machine Learning — Logistic Regression vs Naive Bayes on 30,000-record Kaggle dataset with class imbalance analysis | IJRASET Vol.11, Oct 2023 | [10.22214/ijraset.2023.55934](https://doi.org/10.22214/ijraset.2023.55934) |
-| 3 | Stock Market Analysis Using Heuristic Approach — 2-layer LSTM (128→64 units) on S&P 500 (2000–2020), temporal split methodology, ARIMA/Prophet baselines | IJRASET Vol.11, Oct 2023 | [10.22214/ijraset.2023.55932](https://doi.org/10.22214/ijraset.2023.55932) |
+| 3 | Stock Market Analysis Using Heuristic Approach — 2-layer LSTM (128→64 units) on S&P 500 (2000–2020) with ARIMA/Prophet baselines | IJRASET Vol.11, Oct 2023 | [10.22214/ijraset.2023.55932](https://doi.org/10.22214/ijraset.2023.55932) |
 | 4 | Amazon Fine Food Review Analysis — TF-IDF + PCA + LDA topic modelling on 568,454 reviews, 5 interpretable themes identified | IJRASET Vol.11, Oct 2023 | [10.22214/ijraset.2023.55930](https://doi.org/10.22214/ijraset.2023.55930) |
 
 ---
