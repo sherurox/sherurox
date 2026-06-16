@@ -18,7 +18,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250">
 </picture>
 
-- 🎓 **MS Computer Science (AI Track)** at **Binghamton University, Thomas J. Watson College** — Expected Dec 2026
+- 🎓 **MS Computer Science (AI Track)** at **Binghamton University, Thomas J. Watson College**
 - 🏫 **BE Computer Science and Engineering** from **AISSMS College of Engineering, Pune** — June 2024
 - 💼 **AI Systems Integrator** @ Zoo Media · **Quantum ML Research Assistant** @ Watson College · **ITS Computer Services Administrator** @ Binghamton University
 - 🔬 **Research:** Transformer-based probabilistic surrogate models on quantum network data — 30K–60K synthetic events per experiment, 70–80% pipeline iteration time reduction
