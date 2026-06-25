@@ -20,8 +20,8 @@
 
 - 🎓 **MS Computer Science (AI Track)** at **Binghamton University, Thomas J. Watson College**
 - 🏫 **BE Computer Science and Engineering** from **AISSMS College of Engineering, Pune** — June 2024
-- 💼 **AI Systems Integrator** @ Zoo Media · **Quantum ML Research Assistant** @ Watson College · **ITS Computer Services Administrator** @ Binghamton University
-- 🔬 **Research:** Transformer-based probabilistic surrogate models on quantum network data — 30K–60K synthetic events per experiment, 70–80% pipeline iteration time reduction
+- 💼 **AI Systems Integrator** @ Zoo Media · **ITS Computer Services Administrator** @ Binghamton University
+- 🔬 **Research (Jan 2025 – May 2026):** Built Transformer-based probabilistic surrogate models on quantum network data — 30K–60K synthetic events per experiment, 70–80% pipeline iteration time reduction
 - 🤖 Specialising in **ML Engineering**, **LLM/RAG Systems**, **IoT/Edge AI**, and **Quantum ML**
 - 🛠 Core stack: **Python · TypeScript · PyTorch · FastAPI · Docker · Angular · TensorFlow.js · Pinecone · OpenSearch**
 - 📄 **4 published papers** in Applied ML, NLP, IoT Systems, and Financial Forecasting (IJRASET)
@@ -47,8 +47,9 @@
 | Role | Organisation | Focus |
 |------|-------------|-------|
 | AI Systems Integrator (Intern) | Zoo Media Inc — Remote | LLM integration, prompt engineering, adaptive educational AI |
-| Research Assistant | Binghamton University (Watson College) | Transformer surrogate models on quantum network data |
 | Computer Services Administrator | ITS, Binghamton University | AI conversational system for ~24,000 students and staff |
+
+> 🔬 **Recently completed:** Quantum ML Research Assistant @ Binghamton University (Watson College) · *Jan 2025 – May 2026* — Transformer-based probabilistic surrogate models on quantum network data.
 
 ---
 
